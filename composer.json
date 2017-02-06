@@ -12,6 +12,7 @@
     ],
     "require": {
         "php": "^5.4|^7.0",
+        "behat/behat": "~3.0",
         "ext-intl": "*"
     },
     "autoload": {
